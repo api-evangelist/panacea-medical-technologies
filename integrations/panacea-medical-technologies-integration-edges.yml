@@ -1,0 +1,16 @@
+generated: '2026-10-22'
+method: none
+source:
+- https://zapier.com/apps/panacea-medical-technologies/integrations
+- https://n8n.io/integrations/panacea-medical-technologies/
+- https://composio.dev/toolkits/panacea-medical-technologies
+- https://monid.ai/tools/panacea-medical-technologies
+checked:
+- https://composio.dev/toolkits/panacea-medical-technologies
+- https://monid.ai/tools/panacea-medical-technologies
+- https://n8n.io/integrations/panacea-medical-technologies/
+- https://zapier.com/apps/panacea-medical-technologies/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
